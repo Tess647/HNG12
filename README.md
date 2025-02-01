@@ -17,7 +17,7 @@ This is a simple public API for HNG12 that returns basic information, including:
 ### **Base URL:**
 
 ```
-https://your-api.onrender.com/
+https://hng12-zgvu.onrender.com/
 ```
 
 ### **Response Format**
@@ -66,7 +66,7 @@ http://localhost:3000/
 The API is deployed on **Render**. You can access it at:
 
 ```
-https://your-api.onrender.com/
+https://hng12-zgvu.onrender.com/
 ```
 
 ## **Tech Stack**
